@@ -83,34 +83,31 @@
   <div class="container marketing">
 
     <!-- Three columns -->
-    <div class="row">
+   <div class="row">
 
-      <div class="col-lg-4">
-        <svg class="bd-placeholder-img rounded-circle" width="140" height="140" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" role="img" aria-label="Placeholder">
-          <rect width="100%" height="100%" fill="var(--bs-secondary-color)"></rect>
-        </svg>
-        <h2 class="fw-normal">Heading</h2>
-        <p>Some representative placeholder content for the three columns of text below the carousel. This is the first column.</p>
-        <p><a class="btn btn-secondary" href="#">View details »</a></p>
-      </div>
+  <div class="col-lg-4 text-center">
+    <img src="/demoshop/asset/uploads/image/image.jpg" class="rounded-circle" width="140" height="140" alt="Image 1">
+    <h2 class="fw-normal">Order</h2>
+    <p>Order </p>
+    <p><a class="btn btn-secondary" href="#">View details »</a></p>
+  </div>
 
-      <div class="col-lg-4">
-        <svg class="bd-placeholder-img rounded-circle" width="140" height="140" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" role="img" aria-label="Placeholder">
-          <rect width="100%" height="100%" fill="var(--bs-secondary-color)"></rect>
-        </svg>
-        <h2 class="fw-normal">Heading</h2>
-        <p>Another exciting bit of representative placeholder content. This time, we've moved on to the second column.</p>
-        <p><a class="btn btn-secondary" href="#">View details »</a></p>
-      </div>
+  <div class="col-lg-4 text-center">
+    <img src="/demoshop/asset/uploads/image/image.jpg" class="rounded-circle" width="140" height="140" alt="Image 2">
+    <h2 class="fw-normal">Create Order</h2>
+    <p>Create order </p>
+    <p><a class="btn btn-secondary" href="#">View details »</a></p>
+  </div>
 
-      <div class="col-lg-4">
-        <svg class="bd-placeholder-img rounded-circle" width="140" height="140" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" role="img" aria-label="Placeholder">
-          <rect width="100%" height="100%" fill="var(--bs-secondary-color)"></rect>
-        </svg>
-        <h2 class="fw-normal">Heading</h2>
-        <p>And lastly this, the third column of representative placeholder content.</p>
-        <p><a class="btn btn-secondary" href="#">View details »</a></p>
-      </div>
+  <div class="col-lg-4 text-center">
+    <img src="/demoshop/asset/uploads/image/image.jpg" class="rounded-circle" width="140" height="140" alt="Image 3">
+    <h2 class="fw-normal">Driver</h2>
+    <p>Driver something</p>
+    <p><a class="btn btn-secondary" href="#">View details »</a></p>
+  </div>
+
+</div>
+
 
     </div>
 
@@ -121,15 +118,12 @@
     <div class="row featurette">
       <div class="col-md-7">
         <h2 class="featurette-heading fw-normal lh-1">
-          First featurette heading. <span class="text-body-secondary">It’ll blow your mind.</span>
+        Fast order <span class="text-body-secondary">It’ll blow your mind.</span>
         </h2>
-        <p class="lead">Some great placeholder content for the first featurette here. Imagine some exciting prose here.</p>
+        <p class="lead">Great order</p>
       </div>
       <div class="col-md-5">
-        <svg class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="500" height="500" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" role="img" aria-label="Placeholder: 500x500">
-          <rect width="100%" height="100%" fill="var(--bs-secondary-bg)"></rect>
-          <text x="50%" y="50%" fill="var(--bs-secondary-color)" dy=".3em">500x500</text>
-        </svg>
+       <img src="/demoshop/asset/uploads/image/image1.jpg" class="rounded-circle" width="140" height="140" alt="Image 3">
       </div>
     </div>
 
@@ -141,13 +135,10 @@
         <h2 class="featurette-heading fw-normal lh-1">
           Oh yeah, it’s that good. <span class="text-body-secondary">See for yourself.</span>
         </h2>
-        <p class="lead">Another featurette? Of course. More placeholder content here to give you an idea of how this layout would work with some actual real-world content in place.</p>
+        <p class="lead">Another featurette? Of cours</p>
       </div>
       <div class="col-md-5 order-md-1">
-        <svg class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="500" height="500" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" role="img" aria-label="Placeholder: 500x500">
-          <rect width="100%" height="100%" fill="var(--bs-secondary-bg)"></rect>
-          <text x="50%" y="50%" fill="var(--bs-secondary-color)" dy=".3em">500x500</text>
-        </svg>
+        <img src="/demoshop/asset/uploads/image/image1.jpg" class="rounded-circle" width="140" height="140" alt="Image 3">
       </div>
     </div>
 
@@ -159,13 +150,10 @@
         <h2 class="featurette-heading fw-normal lh-1">
           And lastly, this one. <span class="text-body-secondary">Checkmate.</span>
         </h2>
-        <p class="lead">And yes, this is the last block of representative placeholder content. Again, not really intended to be actually read, simply here to give you a better view of what this would look like with some actual content. Your content.</p>
+        <p class="lead">And yes, this is the last block of representative placeholder content</p>
       </div>
       <div class="col-md-5">
-        <svg class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="500" height="500" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" role="img" aria-label="Placeholder: 500x500">
-          <rect width="100%" height="100%" fill="var(--bs-secondary-bg)"></rect>
-          <text x="50%" y="50%" fill="var(--bs-secondary-color)" dy=".3em">500x500</text>
-        </svg>
+       <img src="/demoshop/asset/uploads/image/image1.jpg" class="rounded-circle" width="140" height="140" alt="Image 3">
       </div>
     </div>
 
@@ -173,29 +161,26 @@
 
   </div> <!-- /.container -->
 
-  <!-- Footer -->
-  <footer class="container">
-    <p class="float-end"><a href="#">Back to top</a></p>
-    <p>© 2017–2025 Company, Inc. · <a href="#">Privacy</a> · <a href="#">Terms</a></p>
-  </footer>
 
   <div class="container">
       <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
         <?php 
-            include_once('../dbconnect.php');
+           include_once __DIR__ . '/../connectDB.php';
+            $conn = connectDb();
             $sql = "SELECT id, name,description,price, image_url FROM products";
             $result = $conn->query($sql);
-            $data = [];    
-            if($result->num_rows > 0) {
-                while($result -> fetch_array(MYSQLI_NUM)) {
-                    $data[] = $row;
-                }
-                $result->free_result();
-            }
-            $conn->close();
+           $data = [];    
+              if ($result->num_rows > 0) {
+                  while ($row = $result->fetch_array(MYSQLI_NUM)) {
+                      $data[] = $row;
+                  }
+                  $result->free_result();
+              }
+              $conn->close();
+
         ?>
        <?php
-        include_once(__DIR__ . '\dbconnect.php');
+        include_once __DIR__ . '/../connectDB.php';
         $conn = connectDb();
         $sql =" select id , name ,description, price, image_url from products";
         $result = $conn->query($sql);
@@ -213,15 +198,17 @@
         ?>
         <div class="col" >
          <div class="card shadow-sm"> 
-              <img src="/demoshop/assets/<?= $item[4] ?>" alt="<?= $item[1] ?>" class="img-fluid" style="height: 225px; object-fit: cover;">
+              <img src="/demoshop/asset/<?= $item[4] ?>" alt="<?= $item[1] ?>" class="img-fluid" style="height: 225px; object-fit: cover;">
                 <rect width="100%" height="100%" fill="#55595c"></rect>
             </svg>
             <div class="card-body">
               <p class="card-text"><?=$item[1]?></p>
               <p class="card-text"><?=$item[2]?></p>
               <div class="d-flex justify-content-between align-items-center">
-              <div class="btn-group"> <button type="button" class="btn btn-sm btn-outline-secondary">View</button> <button type="button" class="btn btn-sm btn-outline-secondary">Edit</button> </div> <small class="text-body-secondary">9 mins</small>
-              <a href="pages/details.php" class="btn btn-sm btn-outline-secondary">Add cart</a>
+              <div class="btn-group">
+               <a href="/demoshop/frontend/pages/detail.php?id=<?= $item[0] ?>" class="btn btn-sm btn-outline-secondary">View</a>
+               </div> <small class="text-body-secondary">9 mins</small>
+              <a href="pages/detail.php" class="btn btn-sm btn-outline-secondary">Add cart</a>
             </div>
             </div>
           </div>

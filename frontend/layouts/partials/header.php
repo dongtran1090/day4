@@ -3,7 +3,7 @@
     <div class="container-fluid">
       
       <!-- Logo / Tên thương hiệu -->
-      <a class="navbar-brand" href="#">Carousel</a>
+      <a class="navbar-brand" href="#http://localhost/demoshop/frontend/">Carousel</a>
       
       <!-- Nút toggle khi thu nhỏ -->
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse"
@@ -15,24 +15,24 @@
       <div class="collapse navbar-collapse" id="navbarCollapse">
         <ul class="navbar-nav me-auto mb-2 mb-md-0">
           <li class="nav-item">
-            <a class="nav-link active" aria-current="page" href="/demo/frontend">Home</a>
+            <a class="nav-link active" aria-current="page" href="/demoshop/frontend">Home</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="/demo/frontend/pages/about.php">About us</a>
+            <a class="nav-link" href="/demoshop/frontend/pages/about.php">About us</a>
           </li>
            <li class="nav-item">
-            <a class="nav-link" href="/demo/frontend/pages/view_cart.php"> View_cart</a>
+            <a class="nav-link" href="/demoshop/frontend/pages/view_cart.php"> View_cart</a>
           </li>
          <?php
             if(isset($_SESSION['user'])){
          ?>
           <li class="nav-item">
-            <a class="nav-link" href="/demo/frontend/pages/logout.php"> Logout</a></li>
+            <a class="nav-link" href="/demoshop/frontend/pages/logout.php"> Logout</a></li>
             <?php  } else { ?>
           <li class="nav-item">
-            <a class="nav-link" href="/demo/frontend/pages/login.php">Login</a>  </li>
+            <a class="nav-link" href="/demoshop/frontend/pages/login.php">Login</a>  </li>
             <li class="nav-item">
-            <a class="nav-link" href="/demo/frontend/pages/register.php">Registerx  </a>  </li>
+            <a class="nav-link" href="/demoshop/frontend/pages/register.php">Register </a>  </li>
             <?php } ?>
         
             
